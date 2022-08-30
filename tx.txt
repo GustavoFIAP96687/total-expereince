@@ -1,0 +1,31 @@
+pit = breve apresentação
+
+1- etapa planejamento (negocio e produto distintos)
+
+produto escopo:contar sobre sem detalhes
+cronograma: precisar esaber quais atividades desenvolver em quanto tempo entregar
+
+2- etapa: 
+elicitaçao de requisitos:levantar os requisitos
+conhecer o stake holder (nem sempre quem solicitou diretamente), entender necessidades, demandas
+para saber oq e como construir
+
+Saber oq perguntar(perguntas uteis e objetivas)
+
+requisitos de usuario: "backlog" conjunto de infos levantadas (detalhes) o que é necessario
+
+3- etapa analise de requisitos:
+RN(regra de negocios)
+RF(requisitos funcionais)
+RNF(requisitos não funcionais)
+
+4- etapa Projeto (modelagem)
+
+5- etapa implementação
+(front/back/banco/infra)
+
+6- teste e validação
+
+7- implantação(instalar no servidor ou em cloud, treinar os usuarios)
+
+8- manutenção ou update
