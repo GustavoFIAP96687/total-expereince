@@ -1,0 +1,15 @@
+"o que" termo
+"como" termo
+
+MVC: model view control(modelo: banco de dados, view: front-end, control: back-end)
+
+crud:4 operaçoes basicas em banco de dado(create, read, update, delete)
+
+problema (cliente):
+
+verbal -> texto = requisitos
+diagrama -> código = produto
+
+problema
+descreva produto
+hipoteses: objetivos -> funcionalidades
