@@ -1,0 +1,7 @@
+Uma integração entre o FIAPP e o Microsoft teams, duas vias de comunicação em um mesmo caminho,  
+
+uma possibilidade de interação do professor com o app, para informar os alunos sobre como funciona o app já que eles também teriam o acesso 
+
+possibilidade de fazer chamada também por ele, podendo ter o controle da aula na palma da mão 
+
+informar quais os alunos que já acessaram e os que já tem acesso ao APP com status de (online, offline, nunca logado) 
